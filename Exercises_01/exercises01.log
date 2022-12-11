@@ -1,0 +1,52 @@
+Microsoft Windows [Version 10.0.19044.2075]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\adminx>python
+Python 3.10.7 (tags/v3.10.7:6cc6b13, Sep  5 2022, 14:08:36) [MSC v.1933 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> a=23+545+234
+>>> a
+802
+>>> u=(20+33+443+32)-(4+6)/2
+>>> u
+523.0
+>>>
+>>> a=222
+>>> print(a)
+222
+>>>
+>>> print(type(a))
+<class 'int'>
+>>>
+>>> x=None
+>>> print(type(x))
+<class 'NoneType'>
+>>>
+>>> dog=23
+>>> dog
+23
+>>> dog='test'
+>>> dog
+'test'
+>>>
+>>> 10*2+10*2
+40
+>>> 10*(2+2)*10
+400
+>>>
+>>> a = "JOR" + 3/2
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+TypeError: can only concatenate str (not "float") to str
+>>> 50/6
+8.333333333333334
+>>> 50%6
+2
+>>>
+>>> 4>3 and 1==1
+True
+>>> 4>3 or 1==2
+True
+>>> 4>3 and 1==2
+False
+>>>
