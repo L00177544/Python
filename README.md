@@ -16,11 +16,11 @@ Following folders were craeted:
    - ***Exercises_08*** - exercises with object oriented python programming
    - ***Exercises_09*** - exercises with PyLint and Unitest for code testing 
    - ***Exercises_10*** - manipulating the time, OS logging and paths exercises
-   - ***Exercises_11*** - 
-   - ***Exercises_12*** - 
-
+   - ***Exercises_11*** - exercises with TCP/IP applications (client and server)
+   - ***Exercises_12*** - exercises with batch file to create folder structure for future projects  
 
 ## Updates
 
 - 1.0 / 12-12-2022 
   - [x] Initial entry
+  - [x] Updates 
