@@ -1,3 +1,4 @@
+# create Pokeman class
 class Pokemon:
     # Class attribute
     species = "Mouse"

@@ -1,3 +1,9 @@
+""
+Script: main.py
+By: TL
+
+Tested: 2909202222
+"""
 from devices import Firewall
 # Create a firewall instance
 firewall27 = Firewall("firewall27")

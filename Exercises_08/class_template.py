@@ -1,3 +1,4 @@
+#Dog class
 class Dog:
     def __init__(self, name, age):
         #print("Constructor ran")

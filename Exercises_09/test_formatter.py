@@ -1,3 +1,6 @@
+"""
+This is unittest exercise
+"""
 import unittest
 import formatter
 
