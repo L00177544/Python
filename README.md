@@ -31,6 +31,9 @@ Student: L00177544
 
 <h2 align=center> 📃 Updates</h2>
 
+- 1.1 / 15-12-2022 
+  - [x] Modifed script content using bugfix2
+  - [x] Updated README.md
 - 1.0 / 12-12-2022 
   - [x] Initial entry
   - [x] Updates 
