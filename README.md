@@ -1,8 +1,10 @@
 # IaC 2 - Python
-
-This GitHub repository is a repository of Python scripts which were important part of IaC module. Each of the folders presents the exercises that were carried out during the weeks of work with Python.
+[![Python](https://img.shields.io/badge/Python-3.9+-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://python.org)
+<h2 align=center> 📑 Introduction </h2>
+This GitHub repository contains Python scripts that were integral to the IaC module. Each folder presents the exercises carried out during the weeks of work with Python.
 
 Following folders were craeted:
+<h2 align=center> 📃 Scripts Available </h2>
 
    - ***Exercises_01*** - use of basic operations adding, slicing, printing. Budget script to calculate monthly money spending.
    - ***Exercises_02*** - exercise covers how to work with Python documentation
@@ -19,7 +21,15 @@ Following folders were craeted:
    - ***Exercises_11*** - exercises with TCP/IP applications (client and server)
    - ***Exercises_12*** - exercises with batch file to create folder structure for future projects  
 
-## Updates
+
+
+<h2 align=center> 📃 Usage</h2>
+Each folder contains the scripts, download the scripts and run the on your local PC. All the scripts were teseted on Python version 3.10.7.
+
+<h2 align=center> 🧑 Contributors </h2>
+Student: L00177544
+
+<h2 align=center> 📃 Updates</h2>
 
 - 1.0 / 12-12-2022 
   - [x] Initial entry
