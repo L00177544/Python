@@ -1,3 +1,11 @@
+"""
+Script: budget.py
+By: TL
+Purpose: Simple budget calculations
+Tested: 2909202222
+Revision history: Pre-Alpha v 0.3
+"""
+
 money_to_spend = 2600*6
 print("Money to spend in the semester is:", end = ' ')
 print(money_to_spend, end = ' ') 
