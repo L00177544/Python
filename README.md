@@ -21,10 +21,11 @@ Following folders were craeted:
    - ***Exercises_11*** - exercises with TCP/IP applications (client and server)
    - ***Exercises_12*** - exercises with batch file to create folder structure for future projects  
 
-
-
 <h2 align=center> 📃 Usage</h2>
-Each folder contains the scripts, download the scripts and run the on your local PC. All the scripts were teseted on Python version 3.10.7.
+  - Each folder contains the scripts, download the .zip file on the main page of the GitHub and extract the .zip file to your local PC.</br>
+  - Extracts the files using preffered tool </br>
+  - Open command promt (Windows) or bash shell (Linux) and run the scripts</br>
+  - All the scripts were teseted on Python version 3.10.7.</a>
 
 <h2 align=center> 🧑 Contributors </h2>
 Student: L00177544
